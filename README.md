@@ -1,0 +1,1 @@
+Responsive Calculator designed using HTML CSS and JS
